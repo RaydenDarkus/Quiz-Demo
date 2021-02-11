@@ -1,0 +1,26 @@
+[
+    {
+        "question": "Javascript is in which HTML tag ?",
+        "choice1": "<script>",
+        "choice2": "<html>",
+        "choice3": "<js>",
+        "choice4": "<scripting>",
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is not a reserved word in JavaScript?",
+        "choice1": "Interface",
+        "choice2": "throws",
+        "choice3": "program",
+        "choice4": "short",
+        "answer": 3
+    },
+    {
+        "question": "Which of the following is the correct syntax to display “GeeksforGeeks” in an alert box using JavaScript?",
+        "choice1": "alertbox(“GeeksforGeeks”)",
+        "choice2": "msg(“GeeksforGeeks”)",
+        "choice3": "msgbox(“GeeksforGeeks”)",
+        "choice4": "alert(“GeeksforGeeks”)",
+        "answer": 4
+    }
+]
